@@ -1,0 +1,4 @@
+3.00
+20.00
+27.00
+Those aren't numbers!!
